@@ -1,0 +1,14 @@
+{
+    "greet": [
+        "hi",
+        "hello",
+        "hey",
+        "hola"
+    ],
+    "goodbye": [
+        "bye",
+        "goodbye",
+        "byegood"
+    ]
+}
+
